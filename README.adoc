@@ -1,0 +1,5 @@
+== springboot-jpa-mysql-sample
+
+工程架构说明：SpringBoot+SpringDataJpa+Mysql
+
+连接的数据库地址暂时是使用公司一个测试数据库的地址
